@@ -19,6 +19,8 @@
 
 # How To Use The 2nd Grade Equation Solver
 
+> [Click Me To Download The *2nd Grade Equation Solver*](https://github.com/ElBi21/ti84utils/blob/2nd-grade-equations/EQ2NDGR.8xv)
+
 > To use the 2nd Grade Equation Solver you simply have to put the 3 coefficients **A**, **B** & **C**, then the file will give you the **Discriminant (Called __*DELTA*__)**, the **Root of the Discriminant**, the **TWO Solutions (Called *X1* & *X2*)** and the **Sum** and the **Product** of the two solutions.
 > **DON'T INSERT ANYTHING ON THE OTHER CELLS THAT AREN'T THE COEFFICIENTS, THE PROGRAM WORKS ONLY IF YOU GIVE HIM THE COEFFICIENTS. DON'T OVERWRITE THE CELLS**
 
