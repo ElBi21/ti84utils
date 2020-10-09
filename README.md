@@ -1,6 +1,6 @@
 # TI84 Plus CE-T Utils Made In CellSheet
 
-> Those Are Some Usefull Tools Made In CellSheet For The Graphic Calculator TI84 Plus CE-T Made By Me.
+> Those Are Some Useful Tools Made In CellSheet For The Graphic Calculator TI84 Plus CE-T Made By Me.
 > To Use Them On Your Graphic Calculator Just Download The File And Upload Via The "TI Connect CE" Software
 > I Do Not Own Anything Of The "Texas Instrument" Mark, All Rights Are Reserved To Them
 
